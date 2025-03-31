@@ -25,7 +25,8 @@ A **Google Lens-inspired AI assistant application for PC**, using multimodal AI 
 ### 🔹 ESP32-Based CSI Heart Rate Monitor
 A research-driven **WiFi Channel State Information-based non-contact heart rate monitor**.
 
-### 🔹 AI-Powered Semantic Book Recommendation System
+### 🔹[Parrot-TTS](https://github.com/DebatableMiracle/Parrot-Text-To-Speech.git)
+A Voice cloning Text to speech with emotional and accent control using OpenVoice models with models.
 
 ## Contact 📬
 - 🌐 [GitHub](https://github.com/DebatableMiracle)
