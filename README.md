@@ -5,7 +5,7 @@
 ## Hey! 👋
 I'm Anubhav Verma, an engineering student passionate about Deep learning and AI Robotics, Embedded Systems, and more!
 
-- 🤖 Enthusiast in **Robotics, AI, and Machine Learning**
+- 🤖 Enthusiast in **Robotics,Reinforcement Learning, AI, and Machine Learning**
 - 🔌 Working with **Electronics, Embedded Systems, and IoT**
 - 💡 Passionate about **Computer Vision, NLP, and AI-driven applications**
 - 🛠️ Exploring **MLOps, automation, and AI-based assistants**
